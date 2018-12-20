@@ -8,3 +8,4 @@ The Changes are til now:
 - The color in the Chatlist is different (not white)
 - There are lines between the chats in the Chatlist
 
+I mrked my changes with //todo
