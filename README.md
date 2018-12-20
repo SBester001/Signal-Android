@@ -9,4 +9,6 @@ The Changes are til now:
 - The color in the Chatlist is different (not white)
 - There are lines between the chats in the Chatlist
 
-I mrked my changes with //todo
+I marked my changes with //todo
+
+You can find the orriginal Project at: https://github.com/signalapp/Signal-Android
