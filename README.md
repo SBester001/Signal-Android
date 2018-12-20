@@ -11,4 +11,4 @@ The Changes are til now:
 
 I marked my changes with //todo
 
-You can find the orriginal Project at: https://github.com/signalapp/Signal-Android
+You can find the original Project at: https://github.com/signalapp/Signal-Android
