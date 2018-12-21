@@ -329,8 +329,8 @@ public class ConversationActivity extends PassphraseRequiredActionBarActivity
         });
       }
     });
-    //todo ändern Chat Hintergrung
-    findViewById(R.id.layout_container).setBackgroundColor(Color.argb(50,000, 200, 200));
+    //todo Chat Hintergrund
+    findViewById(R.id.layout_container).setBackgroundColor(Color.argb(40,0, 150, 200));
   }
 
   @Override

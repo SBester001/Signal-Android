@@ -371,7 +371,7 @@ public class Util {
 
   public static int getDaysTillBuildExpiry() {
     int age = (int)TimeUnit.MILLISECONDS.toDays(System.currentTimeMillis() - BuildConfig.BUILD_TIMESTAMP);
-    //todo löschen
+    //todo die App muss nicht nach 90 Tagen aktualisiert werden
     //return 90 - age;
     return 90;
   }

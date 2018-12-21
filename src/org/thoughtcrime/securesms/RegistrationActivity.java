@@ -505,7 +505,7 @@ public class RegistrationActivity extends BaseActionBarActivity implements Verif
 
           Optional<String> gcmToken;
 
-          //todo: löschen
+          //todo: keine Google-Play Dienste während der Registrierung
           /*if (gcmSupported) {
             gcmToken = Optional.of(GoogleCloudMessaging.getInstance(RegistrationActivity.this).register(GcmRefreshJob.REGISTRATION_ID));
           } else {

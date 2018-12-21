@@ -109,8 +109,8 @@ public class ConversationListActivity extends PassphraseRequiredActionBarActivit
     RegistrationLockDialog.showReminderIfNecessary(this);
 
     TooltipCompat.setTooltipText(searchAction, getText(R.string.SearchToolbar_search_for_conversations_contacts_and_messages));
-    //todo ChatListe Hintergrung
-    findViewById(R.id.container).setBackgroundColor(Color.argb(50,000, 150, 200));
+    //todo ChatListe Hintergrund
+    findViewById(R.id.container).setBackgroundColor(Color.argb(40,0, 150, 200));
 
 
   }
