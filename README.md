@@ -8,6 +8,7 @@ The Changes are til now:
 - The color in the Chat is different (not white)
 - The color in the Chatlist is different (not white)
 - There are lines between the chats in the Chatlist
+- There is no message that the app works in the background if you doesn' use the Google Play Services
 
 I marked my changes with //todo
 
